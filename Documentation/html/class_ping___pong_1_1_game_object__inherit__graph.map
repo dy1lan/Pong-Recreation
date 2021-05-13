@@ -1,0 +1,4 @@
+<map id="Ping_Pong.GameObject" name="Ping_Pong.GameObject">
+<area shape="rect" id="node2" href="$class_ping___pong_1_1_ball.html" title="{Ping_Pong.Ball\n|+ DX\l+ DY\l# m_DX\l# m_DY\l|}" alt="" coords="5,277,116,399"/>
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_paddle.html" title="{Ping_Pong.Paddle\n||}" alt="" coords="140,299,269,377"/>
+</map>

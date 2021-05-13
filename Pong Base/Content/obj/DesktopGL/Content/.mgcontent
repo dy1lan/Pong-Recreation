@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/background_choice_1.mp3</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/background_choice_2.mp3</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/ball.bmp</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/name.spritefont</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/numbers.bmp</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/numbers.spritefont</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/paddle.bmp</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/paddle_hit.mp3</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/pong_ball.png</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/table_tennis.png</File>
+    <File>C:/Users/Dylan/Google Drive (dstew002@odu.edu)/School/Spring 2021/ECE 407 (Intro To Game Development)/Programming_Assignment_2/Pong Base/Pong Base/Content/media/wall_hit.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

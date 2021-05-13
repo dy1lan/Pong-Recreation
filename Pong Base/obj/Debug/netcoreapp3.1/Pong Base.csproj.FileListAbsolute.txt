@@ -1,0 +1,26 @@
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Content\media\ball.xnb
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Content\media\numbers.xnb
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Content\media\paddle.xnb
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.exe
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.deps.json
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.runtimeconfig.json
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.runtimeconfig.dev.json
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\Pong Base.pdb
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.csprojAssemblyReference.cache
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.AssemblyInfoInputs.cache
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.AssemblyInfo.cs
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.csproj.CoreCompileInputs.cache
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.csproj.CopyComplete
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.dll
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.pdb
+D:\Documents\Courses\ODU\MSIM 408\2020\Lectures\2D Games\MonoGame\Pong Base\Pong Base\obj\Debug\netcoreapp3.1\Pong Base.genruntimeconfig.cache

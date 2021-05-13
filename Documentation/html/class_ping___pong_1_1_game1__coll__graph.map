@@ -1,0 +1,5 @@
+<map id="Ping_Pong.Game1" name="Ping_Pong.Game1">
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_ball.html" title="{Ping_Pong.Ball\n|+ DX\l+ DY\l# m_DX\l# m_DY\l|}" alt="" coords="206,279,317,400"/>
+<area shape="rect" id="node4" href="$class_ping___pong_1_1_game_object.html" title="{GameObject\n|+ X\l+ Y\l+ Width\l+ Height\l+ Rect\l+ Visual\l# m_X\l# m_Y\l# m_Width\l# m_Height\l# m_Visual\l|}" alt="" coords="299,5,394,229"/>
+<area shape="rect" id="node5" href="$class_ping___pong_1_1_paddle.html" title="{Ping_Pong.Paddle\n||}" alt="" coords="341,301,470,378"/>
+</map>
